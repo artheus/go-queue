@@ -11,6 +11,7 @@ require (
 	github.com/onsi/ginkgo v1.12.0 // indirect
 	github.com/onsi/gomega v1.9.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/segmentio/kafka-go v0.3.5
 	github.com/sirupsen/logrus v1.5.0 // indirect
 	github.com/src-d/envconfig v1.0.0 // indirect
 	github.com/streadway/amqp v0.0.0-20200108173154-1c71cc93ed71
